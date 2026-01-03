@@ -18,13 +18,12 @@ The primary goal of the prototype is **accurate and conservative detection of su
 
 ## Repository Structure
 
-.
-├── app.py # Streamlit app wrapping the detection agent
-├── *.ipynb # Data description, preprocessing, and model training
-├── lr_best # Exported Logistic Regression model
-├── myvec # Exported TF-IDF vectorizer
-├── memo.pdf / memo.md # Design decisions and methodological documentation
-└── README.md
+- `app.py` — Streamlit app wrapping the detection agent  
+- `*.ipynb` — Data description, preprocessing, and model training  
+- `lr_best` — Exported Logistic Regression model  
+- `myvec` — Exported TF-IDF vectorizer  
+- `memo.pdf` / `memo.md` — Design decisions and methodology  
+- `README.md`
 
 
 ---
