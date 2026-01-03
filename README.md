@@ -22,7 +22,7 @@ The primary goal of the prototype is **accurate and conservative detection of su
 - `*.ipynb` — Data description, preprocessing, and model training  
 - `lr_best` — Exported Logistic Regression model  
 - `myvec` — Exported TF-IDF vectorizer  
-- `memo.pdf` / `memo.md` — Design decisions and methodology  
+- `Lyslle Practicum Memo.docx` / — Design decisions and methodology  
 - `README.md`
 
 
